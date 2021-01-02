@@ -1,2 +1,9 @@
-# to-do-app
-react natvie project
+# To Do
+## Execute
+```
+yarn add
+yarn start
+```
+
+## Results
+![](./img/00.gif)
