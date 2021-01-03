@@ -21,6 +21,7 @@ function Element({content, id, del}) {
     return (
         <>
         <View style={[
+          { elevation: 10 },
           {alignSelf: "center",backgroundColor:"#fffffa",borderRadius: 4, shadowColor: "black", margin: 10, padding: 10, flexDirection:'row', alignItems: 'center',  borderRadius: 10},
           { shadowOffset: {width: 0, height: 5 }, shadowOpacity:0.1, shadowRadius:10,},
         ]}>

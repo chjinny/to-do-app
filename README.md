@@ -1,5 +1,8 @@
 # To Do
 
+## Try On
+https://expo.io/@chjinny.kim/projects/todo
+
 ## Refs
 https://velog.io/@chjinny/series/react-natvie
 

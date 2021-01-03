@@ -23,6 +23,7 @@ function List({state, add}) {
   return (
     <>
     <View style={[
+          { elevation: 10 },
           { flex : 5, alignSelf: "center",backgroundColor:"#fffffa",borderRadius: 4, shadowColor: "black", margin: 10, padding: 10, alignItems: 'center', width:'100%', borderRadius: 20},
           { shadowOffset: {width: 0, height: 10 }, shadowOpacity:0.1, shadowRadius:10,},
         ]}>
