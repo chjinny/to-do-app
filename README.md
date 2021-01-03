@@ -6,4 +6,4 @@ yarn start
 ```
 
 ## Results
-![](./img/00.gif)
+![](./img/01.gif)
