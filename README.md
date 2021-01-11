@@ -13,7 +13,7 @@ yarn start
 ```
 or
 ```
-npm add
+npm install
 npm start
 ```
 
